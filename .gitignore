@@ -3,9 +3,11 @@ bin-debug/
 bin-release/
 [Oo]bj/
 [Bb]in/
+venv/
 
 # Other files and folders
 .settings/
+venv/
 
 # Executables
 *.swf
